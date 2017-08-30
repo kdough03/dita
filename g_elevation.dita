@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="elevation">
+    <glossterm>Elevation</glossterm>
+    <glossdef>The vertical distance above the reference geoid, a mathematical model of the Earth's sea level as an equipotential gravitational surface.</glossdef>
+</glossentry>

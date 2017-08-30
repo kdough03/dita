@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="intro">
+    <title>Introduction</title>
+    <body>
+        <p>The following table lists the major mountain ranges of the U.S. state of Colorado. All of these ranges can be considered subranges of the Rocky Mountains.</p>
+        <note>
+            <p>All elevations in this article include an elevation adjustment from the <xref
+                    href="https://en.wikipedia.org/wiki/Sea_Level_Datum_of_1929" format="html"
+                    scope="external">National Geodetic Vertical Datum of 1929 (NGVD 29)</xref> to
+                the <xref href="https://en.wikipedia.org/wiki/North_American_Vertical_Datum_of_1988"
+                    format="html" scope="external">North American Vertical Datum of 1988 (NAVD
+                    88)</xref>. For further information, please see this United States National
+                Geodetic Survey <xref href="http://www.ngs.noaa.gov/faq.shtml#WhatVD29VD88"
+                    format="html" scope="external">note</xref>. If an elevation or prominence is
+                calculated as a range of values, the arithmetic mean is shown.</p>
+        </note>
+        <image href="images/pikes-peak.jpg" placement="break" width="500px">
+            <alt>Pike's Peak in winter, with Garden of the Gods in the foreground.</alt>
+        </image>
+    </body>
+</topic>

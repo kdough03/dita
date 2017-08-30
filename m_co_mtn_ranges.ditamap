@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Mountain Ranges in Colorado</title>
+    <topicref href="t_intro.dita"></topicref>
+    <topicref href="t_co_mountain_ranges.dita"></topicref>
+    <mapref href="m_glossary.ditamap" format="ditamap"></mapref>
+</map>

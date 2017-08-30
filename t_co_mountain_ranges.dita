@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="co_mountain_ranges">
+    <title>Colorado Mountain Ranges</title>
+    <shortdesc>This table lists the names and properties of the mountain ranges located in beautiful Colorado.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2017-08-28"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <simpletable frame="all" id="ranges">
+            <sthead>
+                <stentry><p>Range</p></stentry>
+                <stentry><p>Highest Summit</p></stentry>
+                <stentry><p><xref href="g_elevation.dita#elevation"
+                    >Elevation</xref></p></stentry>
+                <stentry><p><xref href="g_prominence.dita#prominence"
+                    >Prominence</xref></p></stentry>
+                <stentry><p><xref href="g_isolation.dita#isolation"
+                    >Isolation</xref></p></stentry>
+            </sthead>
+            <strow>
+                <stentry><p>Sawatch Range</p></stentry>
+                <stentry><p>Mount Elbert</p></stentry>
+                <stentry><p>14,440 ft</p></stentry>
+                <stentry><p>9,093 ft</p></stentry>
+                <stentry><p>671 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Sangre de Cristo Mountains</p></stentry>
+                <stentry><p>Blanca Peak</p></stentry>
+                <stentry><p>14,351 ft</p></stentry>
+                <stentry><p>5,326 ft</p></stentry>
+                <stentry><p>103.4 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>San Juan Mountains</p></stentry>
+                <stentry><p>Uncompaghre Peak</p></stentry>
+                <stentry><p>14,321 ft</p></stentry>
+                <stentry><p>4,277 ft</p></stentry>
+                <stentry><p>85.1 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Mosquito Range</p></stentry>
+                <stentry><p>Mount Lincoln</p></stentry>
+                <stentry><p>14,293 ft</p></stentry>
+                <stentry><p>3,862 ft</p></stentry>
+                <stentry><p>22.5 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Front Range</p></stentry>
+                <stentry><p>Grays Peak</p></stentry>
+                <stentry><p>14,278 ft</p></stentry>
+                <stentry><p>2,770 ft</p></stentry>
+                <stentry><p>25.0 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Elk Mountains</p></stentry>
+                <stentry><p>Castle Peak</p></stentry>
+                <stentry><p>14,279 ft</p></stentry>
+                <stentry><p>2,365 ft</p></stentry>
+                <stentry><p>20.9 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Gore Range</p></stentry>
+                <stentry><p>Mount Powell</p></stentry>
+                <stentry><p>13,586 ft</p></stentry>
+                <stentry><p>3,000 ft</p></stentry>
+                <stentry><p>21.5 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Medicine Bow Mountains</p></stentry>
+                <stentry><p>Clark Peak</p></stentry>
+                <stentry><p>12,960 ft</p></stentry>
+                <stentry><p>2,771 ft</p></stentry>
+                <stentry><p>16.40 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Flat Tops</p></stentry>
+                <stentry><p>Flat Top Mountain</p></stentry>
+                <stentry><p>12,361 ft</p></stentry>
+                <stentry><p>4,054 ft</p></stentry>
+                <stentry><p>40.8 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Rabbit Ears Range</p></stentry>
+                <stentry><p>Parkview Mountain</p></stentry>
+                <stentry><p>12,301 ft</p></stentry>
+                <stentry><p>2,676 ft</p></stentry>
+                <stentry><p>10.91 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Park Range</p></stentry>
+                <stentry><p>Mount Zirkel</p></stentry>
+                <stentry><p>12,185 ft</p></stentry>
+                <stentry><p>3,470 ft</p></stentry>
+                <stentry><p>37.7 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>White River Plateau</p></stentry>
+                <stentry><p>Blair Mountain</p></stentry>
+                <stentry><p>11,465 ft</p></stentry>
+                <stentry><p>1,736 ft</p></stentry>
+                <stentry><p>11.50 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Grand Mesa</p></stentry>
+                <stentry><p>Crater Peak</p></stentry>
+                <stentry><p>11,333 ft</p></stentry>
+                <stentry><p>2,307 ft</p></stentry>
+                <stentry><p>17.98 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Laramie Mountains</p></stentry>
+                <stentry><p>South Bald Mountain</p></stentry>
+                <stentry><p>11,009 ft</p></stentry>
+                <stentry><p>1,863 ft</p></stentry>
+                <stentry><p>8.54 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Uncompaghre Plateau</p></stentry>
+                <stentry><p>Horsefly Peak</p></stentry>
+                <stentry><p>10,353 ft</p></stentry>
+                <stentry><p>1,437 ft</p></stentry>
+                <stentry><p>13.04 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Ute Mountain</p></stentry>
+                <stentry><p>Ute Peak</p></stentry>
+                <stentry><p>9,984 ft</p></stentry>
+                <stentry><p>4,039 ft</p></stentry>
+                <stentry><p>34.3 mi</p></stentry>
+            </strow>
+            <strow>
+                <stentry><p>Raton Mesa</p></stentry>
+                <stentry><p>Fishers Peak</p></stentry>
+                <stentry><p>9,633</p></stentry>
+                <stentry><p>1,847 ft</p></stentry>
+                <stentry><p>31.0 mi</p></stentry>
+            </strow>
+        </simpletable>
+        <section>
+            <title>Source</title>
+            <p><cite>"List of mountain ranges of Colorado." <i>Wikipedia: The Free Encyclopedia.</i> Wikimedia Foundation, Inc. 28 Aug 2017. Web. 28 Aug 2017.</cite></p>
+        </section>
+    </refbody>
+</reference>
